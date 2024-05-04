@@ -28,6 +28,6 @@ An energetic engineer with a passion for innovation and technology, majoring in 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Atonu007"><img src="https://github-readme-stats.vercel.app/api?username=Atonu007&show_icons=true&hide=stars,&title_color=ef4444&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Atonu007's GitHub stats" /></a>
+<a href="http://www.github.com/Atonu007"><img src="https://github-readme-stats.vercel.app/api?username=Atonu007&show_icons=true&hide=stars,&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Atonu007's GitHub stats" /></a>
 
-<a href="https://github.com/Atonu007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atonu007&langs_count=10&title_color=ef4444&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Atonu007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atonu007&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
